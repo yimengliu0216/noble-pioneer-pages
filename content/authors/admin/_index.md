@@ -56,10 +56,10 @@ education:
   - area: Ph.D. Computer Science
     institution: University of California, Santa Barbara
     icon: ""
-    date_start: 
-    date_end: 
+    date_start: ""
+    date_end: ""
     summary: |
-      HCI+AI research. Generative AI/LLMs to support human capabilities (creativity, learning).
+      HCI+AI research. Generative AI/LLMs to support human capabilities (e.g., creativity, learning).
       
     # button:
     #   text: 'Read Thesis'
@@ -76,8 +76,8 @@ education:
   - area: B.Eng. Remote Sensing Science and Technology
     institution: Wuhan University
     icon: ""
-    date_start: 
-    date_end: 
+    date_start: ""
+    date_end: ""
     summary: |
       Remote sensing. Photogrammetry. Geographic information systems.
 
@@ -89,7 +89,7 @@ work:
     date_start: 2025-09-29
     date_end: ''
     summary: |2-
-      AI infra, synthetic data for Gemini.
+      AI infra, synthetic data for Google Cloud and Gemini.
   - position: Research Intern
     company_name: Microsoft Research
     company_url: ''
@@ -97,7 +97,7 @@ work:
     date_start: 2025-06-16
     date_end: 2025-09-05
     summary: |
-      LLM-based web agent reusability.
+      LLM-based web agent reusability and interpretability.
   - position: Research Intern
     company_name: Adobe Research
     company_url: ''
@@ -181,8 +181,9 @@ work:
 #     icon: hero/academic-cap
 #     summary: |
 #       Recognized for contributions to scaling laws in deep learning.
+
 ---
 
-Yimeng Liu is a software engineer at Google, where she works on AI infra and synthetic data for Google Cloud and Gemini. Before that, Yimeng graduated from UC Santa Barbara with CS Ph.D., where she focused on Human-Computer Interaction research that designed and developed generative AI/LLMs based techniques to augment human capabilities. 
+Yimeng Liu is a software engineer at Google, where she works on AI infra and synthetic data for Google Cloud and Gemini. Before that, Yimeng graduated from UC Santa Barbara with CS Ph.D., where she focused on Human-Computer Interaction research that used generative AI/LLMs based techniques to develope human-centered systems that augment human capabilities (e.g., creativity, learning). 
 
 <!-- Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent. -->
