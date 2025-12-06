@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Software Engineer / HCI+AI Researcher
+role: Software Engineer | HCI Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -33,55 +33,53 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
+  # - icon: at-symbol
+  #   url: 'mailto:alex.johnson@meta.com'
+  #   label: E-mail Me
+  # - icon: brands/x
+  #   url: https://x.com/AlexAIResearch
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/yimengliu0216/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://scholar.google.com/citations?user=hROpwCcAAAAJ&hl=en
+  - icon: brands/github
+    url: https://github.com/yimengliu0216
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Human-Computer Interaction
+  - Human-AI Interaction
+  - Human-Centered AI
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: Ph.D. Computer Science
+    institution: University of California, Santa Barbara
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    # date_start: 2015-09-01
+    # date_end: 2019-06-30
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+      HCI+AI research. Generative AI/LLMs to support human capabilities (creativity, learning).
+      
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com/thesis.pdf'
+  # - area: MS Computer Science
+  #   institution: Carnegie Mellon University
+  #   icon: ""
+  #   date_start: 2013-09-01
+  #   date_end: 2015-05-31
+  #   summary: |
+  #     GPA: 4.0/4.0
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+  #     Specialized in machine learning and robotics.
+  - area: B.Eng. Remote Sensing Science and Technology
+    institution: Wuhan University
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    # date_start: 2009-09-01
+    # date_end: 2013-05-31
     summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      Remote sensing. Photogrammetry. Geographic information systems.
 
 work:
   - position: Senior AI Research Scientist
