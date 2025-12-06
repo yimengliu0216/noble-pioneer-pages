@@ -183,7 +183,10 @@ work:
 #       Recognized for contributions to scaling laws in deep learning.
 
 ---
+Hi! 
 
-Yimeng Liu is a software engineer at Google, where she works on AI infra and synthetic data for Google Cloud and Gemini. Before that, Yimeng graduated from UC Santa Barbara with CS Ph.D., where she focused on Human-Computer Interaction research that used generative AI/LLMs based techniques to develope human-centered systems that augment human capabilities (e.g., creativity, learning). 
+I am a software engineer at Google, where I work on AI infra and synthetic data for Gemini post-training and evaluation. 
+
+Before that, I graduated from UC Santa Barbara with CS Ph.D., where I focused on Human-Computer Interaction research that used generative AI/LLMs based techniques to develope human-centered systems that augment human capabilities (e.g., creativity, learning). 
 
 <!-- Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent. -->
