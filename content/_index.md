@@ -20,8 +20,8 @@ sections:
       #   url: uploads/resume.pdf
       headings:
         about: ''
-        education: ''
-        interests: ''
+        # education: ''
+        # interests: ''
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
@@ -65,15 +65,15 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - events
+  #   design:
+  #     view: card
   # - block: collection
   #   id: news
   #   content:

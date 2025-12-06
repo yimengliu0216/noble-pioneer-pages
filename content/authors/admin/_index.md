@@ -26,9 +26,9 @@ highlight_name: true
 role: Software Engineer | HCI Researcher
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: Google
-    url: 
+# organizations:
+#   - name: Google
+#     url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -38,12 +38,12 @@ profiles:
   #   label: E-mail Me
   # - icon: brands/x
   #   url: https://x.com/AlexAIResearch
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/yimengliu0216/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=hROpwCcAAAAJ&hl=en
-  - icon: brands/github
-    url: https://github.com/yimengliu0216
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/yimengliu0216/
+  # - icon: brands/github
+  #   url: https://github.com/yimengliu0216
   # - icon: academicons/orcid
   #   url: https://orcid.org/0000-0002-1825-0097
 
@@ -53,7 +53,7 @@ interests:
   - Human-Centered AI
 
 education:
-  - area: Ph.D. Computer Science
+  - area: Ph.D. in Computer Science
     institution: University of California, Santa Barbara
     icon: ""
     date_start: ""
@@ -73,7 +73,7 @@ education:
   #     GPA: 4.0/4.0
 
   #     Specialized in machine learning and robotics.
-  - area: B.Eng. Remote Sensing Science and Technology
+  - area: B.Eng. in Remote Sensing Science and Technology
     institution: Wuhan University
     icon: ""
     date_start: ""
@@ -86,10 +86,10 @@ work:
     company_name: Google
     company_url: ''
     icon: ''
-    date_start: 2025-09-29
+    date_start: 2025-10-01
     date_end: ''
     summary: |2-
-      AI infra, synthetic data for Google Cloud and Gemini.
+      AI infra, synthetic data for Gemini post-training and evaluation.
   - position: Research Intern
     company_name: Microsoft Research
     company_url: ''
