@@ -22,30 +22,12 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Role/position/tagline
-role: Software Engineer | HCI Researcher
-
-# Organizations/Affiliations to display in Biography blox
-# organizations:
-#   - name: Google
-#     url: 
-
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  # - icon: at-symbol
-  #   url: 'mailto:alex.johnson@meta.com'
-  #   label: E-mail Me
-  # - icon: brands/x
-  #   url: https://x.com/AlexAIResearch
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=hROpwCcAAAAJ&hl=en
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yimengliu0216/
-  # - icon: brands/github
-  #   url: https://github.com/yimengliu0216
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/0000-0002-1825-0097
 
 interests:
   - Human-Computer Interaction
@@ -59,20 +41,8 @@ education:
     date_start: ""
     date_end: ""
     summary: |
-      HCI+AI research. Generative AI/LLMs to support human capabilities (e.g., creativity, learning).
-      
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com/thesis.pdf'
-  # - area: MS Computer Science
-  #   institution: Carnegie Mellon University
-  #   icon: ""
-  #   date_start: 2013-09-01
-  #   date_end: 2015-05-31
-  #   summary: |
-  #     GPA: 4.0/4.0
+      HCI+AI research. Generative AI/LLMs to augment human capabilities (e.g., creativity, learning).
 
-  #     Specialized in machine learning and robotics.
   - area: B.Eng. in Remote Sensing Science and Technology
     institution: Wuhan University
     icon: ""
@@ -148,12 +118,6 @@ work:
 #         description: ''
 #         percent: 70
 #         icon: book-open
-
-# languages:
-#   - name: English
-#     percent: 100
-#   - name: Spanish
-#     percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
